@@ -5,3 +5,6 @@ class Artist
     @name = name
   end
 end
+
+artist.new
+artis.name = "Beyonce"
